@@ -21,6 +21,8 @@ We define our ansatz as the parametrized quantum circuit.
 
 [<img src="fig/output.png" height="300">]()
 
+We can see that the different quantum natural gradients approach the target faster than vanilla gradient descent.
+
 
 Simultaneous Perturbation Stochastic Approximation (SPSA) 
 The Quantum Natural SPSA (QN-SPSA) 
