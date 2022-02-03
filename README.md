@@ -14,3 +14,7 @@ The quantum approach has two fundamental steps :
 2. Measure the expectation value $\langle\,\Psi(\vec{\theta})\,|\,\hat{H}\,|\,\Psi(\vec{\theta})\,\rangle$
 
 We define our ansatz $|\Psi(\vec{\theta})\rangle = U(\vec{\theta})|0\rangle$ with $U(\vec{\theta})$ the parametrized quantum circuit.
+
+<img src="https://latex.codecogs.com/svg.image?$|\Psi(\vec{\theta})\rangle&space;=&space;U(\vec{\theta})|0\rangle$&space;" title="$|\Psi(\vec{\theta})\rangle = U(\vec{\theta})|0\rangle$ " />
+
+<img src="https://latex.codecogs.com/png.image?\dpi{110}&space;$|\Psi(\vec{\theta})\rangle&space;=&space;U(\vec{\theta})|0\rangle$&space;" title="$|\Psi(\vec{\theta})\rangle = U(\vec{\theta})|0\rangle$ " />
