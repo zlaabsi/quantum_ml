@@ -28,6 +28,8 @@ Simultaneous Perturbation Stochastic Approximation (SPSA)
 The Quantum Natural SPSA (QN-SPSA) 
 Powerlaw SPSA : automatically calibrate the learning rate 
 
+## Quantum Neural Network Classifier & Regressor
+
 
 ### References
 
