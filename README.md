@@ -24,9 +24,11 @@ We define our ansatz as the parametrized quantum circuit.
 We can see that the different quantum natural gradients approach the target faster than vanilla gradient descent.
 
 
-Simultaneous Perturbation Stochastic Approximation (SPSA) 
-The Quantum Natural SPSA (QN-SPSA) 
-Powerlaw SPSA : automatically calibrate the learning rate 
+- Simultaneous Perturbation Stochastic Approximation (SPSA) 
+- The Quantum Natural SPSA (QN-SPSA) 
+- Powerlaw SPSA : automatically calibrate the learning rate 
+
+### Limitations (Barren plateaus)
 
 ## Quantum Neural Network Classifier & Regressor
 
