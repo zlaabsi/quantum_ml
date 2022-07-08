@@ -10,10 +10,10 @@ The expectation value is what we’d expect to measure if we averaged out a larg
 
 The quantum approach has two fundamental steps :
 
-1. Prepare the quantum state called the *ansatz*
-2. Measure the expectation value 
+1. Prepare the quantum state $|\Psi(\vec{\theta})\rangle$ called the *ansatz*
+2. Measure the expectation value $\langle\Psi(\vec{\theta})|\hat{H}|\Psi(\vec{\theta})\rangle$
 
-We define our ansatz as the parametrized quantum circuit.
+We define our ansatz $|\Psi(\vec{\theta})\rangle = U(\vec{\theta})|0\rangle$ with $U(\vec{\theta})$ the parametrized quantum circuit.
 
 
 [<img src="fig/circuit.png" height="300">]()
@@ -31,6 +31,7 @@ We can see that the different quantum natural gradients approach the target fast
 ### Limitations (Barren plateaus)
 
 ...
+
 
 
 ### References
