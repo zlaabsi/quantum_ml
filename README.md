@@ -4,7 +4,10 @@
 
 How to train quantum circuit-based models using gradient based methods ?
 
-The goal in the case where we train a parameterized quantum circuit model is to minimize the cost or loss function which is the objective function via the vector of parameters. 
+The goal in the case of classical models is to minimize the cost or loss function which is the objective function via the vector of parameters $\vec{\theta}$. 
+In the case where we train a parameterized quantum circuit model, the function to minimize is the expected value 
+$$\langle\Psi(\vec{\theta})|\hat{H}|\Psi(\vec{\theta})\rangle$$ 
+with $\hat{H}$ the Hamiltonian operator defined by the Schrödinger equation $$i\hbar \frac{d|\Psi(\vec{\theta})\rangle}{d\theta} = \hat{H} |\Psi(\vec{\theta})\rangle$$
 
 The expectation value is what we’d expect to measure if we averaged out a large number of results.
 
