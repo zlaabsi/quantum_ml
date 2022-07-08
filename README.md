@@ -30,7 +30,7 @@ We can see that the different quantum natural gradients approach the target fast
 
 ### Limitations (Barren plateaus)
 
-## Quantum Neural Network Classifier & Regressor
+...
 
 
 ### References
