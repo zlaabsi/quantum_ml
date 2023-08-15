@@ -31,9 +31,6 @@ We can see that the different quantum natural gradients approach the target fast
 - The Quantum Natural SPSA (QN-SPSA) 
 - Powerlaw SPSA : automatically calibrate the learning rate 
 
-### Limitations (Barren plateaus)
-
-...
 
 
 
